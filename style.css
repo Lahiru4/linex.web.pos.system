@@ -592,7 +592,6 @@ body{
         height: auto;
         background: transparent;
         color: var(--dark);
-        border-radius: none;
     }
 
     .content nav form.show .form-input input{
